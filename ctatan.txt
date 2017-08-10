@@ -1,0 +1,4 @@
+curah huajan : min 70 max 335
+suhu : min 20 max 35
+ph : ttp
+umur hapus
